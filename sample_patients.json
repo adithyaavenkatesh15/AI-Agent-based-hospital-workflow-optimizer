@@ -1,0 +1,52 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "John Smith",
+    "symptoms": ["chest pain", "shortness of breath"],
+    "severity_score": 8,
+    "required_appointments": ["consultation", "echocardiogram", "stress_test"],
+    "medical_history": "previous heart condition, diabetes",
+    "age": 65,
+    "priority": null
+  },
+  {
+    "patient_id": "P002",
+    "name": "Sarah Johnson",
+    "symptoms": ["palpitations", "dizziness"],
+    "severity_score": 5,
+    "required_appointments": ["consultation", "ecg"],
+    "medical_history": "no significant history",
+    "age": 42,
+    "priority": null
+  },
+  {
+    "patient_id": "P003",
+    "name": "Michael Chen",
+    "symptoms": ["irregular heartbeat", "fatigue"],
+    "severity_score": 6,
+    "required_appointments": ["consultation", "echocardiogram", "blood_test"],
+    "medical_history": "hypertension, family history of heart disease",
+    "age": 58,
+    "priority": null
+  },
+  {
+    "patient_id": "P004",
+    "name": "Emily Rodriguez",
+    "symptoms": ["mild chest discomfort"],
+    "severity_score": 3,
+    "required_appointments": ["consultation"],
+    "medical_history": "no significant history",
+    "age": 35,
+    "priority": null
+  },
+  {
+    "patient_id": "P005",
+    "name": "Robert Williams",
+    "symptoms": ["severe chest pain", "sweating", "nausea"],
+    "severity_score": 10,
+    "required_appointments": ["consultation", "ecg", "blood_test"],
+    "medical_history": "previous heart attack, smoker",
+    "age": 72,
+    "priority": null
+  }
+]
